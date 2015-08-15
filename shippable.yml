@@ -11,7 +11,7 @@ services:
 
 env:
   global:
-    - WWW_URL: http://104.236.198.94:40280/
+    - WWW_URL=http://104.236.198.94:40280/
     - secure: NvtFqfp2CrM1S5m2TLzhEmqVdruY0ithwONUPL9Y9UixsCUQi+5JfP3LzYDuOS1OeVsESxrDmxhtbNx45yzCrn/R9dLysflQleAiM0vTQ6eWZUZmfT0RGC9YZ6FTkp7J6+Ejc4SjgZNhUaf+xNuAD4m3HUxScpg3ovM+s7pkoZCIKAUPuYt4l4HRnz/4tqruCy29aHGPv7IjyB3Us3whPbeviwsxIhXYoUyow86ZLh4fkYY+BVSNbfbm+EknnMmrxr5P+6NRnMt82xrAadUXpvUp40mUhE9IjgVzELGTcOgebPRX0lNPR6bUrjouMddkp/N6Q5BAzjMYFmcxX7nkNg==
     # TOKEN is a GitHub token for the subscription triggering the build
 
